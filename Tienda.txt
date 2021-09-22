@@ -53,12 +53,12 @@ PRODUCTOS
 CESTAS/PEDIDOS
 
 
--componer una cesta (esto lo hace la aplicación angular)
+-componer una cesta (esto lo hace la aplicaciï¿½n angular)
 
 -guardar las cestas
 
 -listar las cestas 
-	-los usuarios podrán ver sus cestas
+	-los usuarios podrï¿½n ver sus cestas
 	
 -borrar una cesta
 
@@ -66,7 +66,7 @@ CESTAS/PEDIDOS
 
 
 -"comprar" una cesta
-	-un proceso en el que se emite una factura y se prepara un envío
+	-un proceso en el que se emite una factura y se prepara un envï¿½o
 	 a partir de una cesta/pedido
 
 
@@ -198,7 +198,7 @@ Pedidos
 			cantidad : 0
 			precio   : 0
 			
-			Opción #1 solo el id (adios rendimiento)
+			Opciï¿½n #1 solo el id (adios rendimiento)
 			producto : _id
 
 			Opcion #2 empotrar un documento con un subconjunto de las propiedades del producto
