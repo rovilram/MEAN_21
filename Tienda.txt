@@ -4,7 +4,7 @@
 //FUNCIONALIDADES//
 ///////////////////
 
--USUARIOS-
+USUARIOS
 
 
 Buscar usuario por login y pw -> 'login'
